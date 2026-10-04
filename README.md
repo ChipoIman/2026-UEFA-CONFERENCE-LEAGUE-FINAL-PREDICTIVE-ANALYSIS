@@ -102,3 +102,5 @@ Project Structure:
 
 How to run:
 Download the Crystal_Palace_Prediction.ipynb file from the repo and open it in jupyter notebook, google colab or VS code, The notebook is already pre-trained, so you can run it as it is or tweak it as you see fit. 
+
+Wandb.login information removed from jupyter notebook for security reasons. 
