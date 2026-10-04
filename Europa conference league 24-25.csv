@@ -1,0 +1,136 @@
+﻿Home;Away;Goals(For);Goals(Against);Winner
+Betis;Chelsea;1;4;Away Win
+Chelsea;Djurgarden;1;0;Home Win
+Fiorentina;Betis;2;2;Away Win
+Betis;Fiorentina;2;1;Home Win
+Djurgarden;Chelsea;1;4;Away Win
+Chelsea;Legia;1;2;Away Win
+SK Rapid;Djurgarden;1;4;Away Win
+Fiorentina;Celje;2;2;Away Win
+Jagiellonia;Betis;1;1;Away Win
+Betis;Jagiellonia;2;0;Home Win
+Celje;Fiorentina;1;2;Away Win
+Djurgarden;SK Rapid;0;1;Away Win
+Legia;Chelsea;0;3;Away Win
+Chelsea;FC Copenhagen;1;0;Home Win
+Fiorentina;Panathinaikos;3;1;Home Win
+Guimaraes;Betis;0;4;Away Win
+Legia;Molde;2;0;Home Win
+Cercle Brugge;Jagiellonia;2;0;Home Win
+Djurgarden;Pafos;3;0;Home Win
+Lugano;Celje;5;5;Away Win
+SK Rapid;Borac Banja Luka;2;1;Home Win
+Borac Banja Luka;SK Rapid;1;1;Away Win
+Celje;Lugano;1;0;Home Win
+Jagiellonia;Cercle Brugge;3;0;Home Win
+Pafos;Djurgarden;1;0;Home Win
+Betis;Guimaraes;2;2;Away Win
+FC Copenhagen;Chelsea;1;2;Away Win
+Molde;Legia;3;2;Home Win
+Panathinaikos;Fiorentina;3;2;Home Win
+APOEL;Celje;0;2;Away Win
+Jagiellonia;TSC;3;1;Home Win
+Panathinaikos;Vikingur Reykjavik;2;0;Home Win
+Shamrock Rovers;Molde;0;2;Away Win
+Betis;Gent;0;1;Away Win
+Heidenheim;FC Copenhagen;1;3;Away Win
+O. Ljubljana;Borac Banja Luka;0;0;Away Win
+Pafos;Omonia;2;1;Home Win
+Borac Banja Luka;O. Ljubljana;1;0;Home Win
+FC Copenhagen;Heidenheim;1;2;Away Win
+Gent;Betis;0;3;Away Win
+Omonia;Pafos;1;1;Away Win
+Celje;APOEL;2;2;Away Win
+Molde;Shamrock Rovers;0;1;Away Win
+TSC;Jagiellonia;1;3;Away Win
+Vikingur Reykjavik;Panathinaikos;2;1;Home Win
+APOEL;FC Astana;1;1;Away Win
+Betis;HJK;1;0;Home Win
+Borac Banja Luka;Omonia;0;0;Away Win
+Celje;TNS;3;2;Home Win
+Cercle Brugge;Basaksehir;1;1;Away Win
+Chelsea;Shamrock Rovers;5;1;Home Win
+Djurgarden;Legia;3;1;Home Win
+Guimaraes;Fiorentina;1;1;Away Win
+Hearts;Petrocub;2;2;Away Win
+Heidenheim;St. Gallen;1;1;Away Win
+Jagiellonia;O. Ljubljana;0;0;Away Win
+Larne;Gent;1;0;Home Win
+LASK;Vikingur Reykjavik;1;1;Away Win
+Lugano;Pafos;2;2;Away Win
+Molde;Mlada Boleslav;4;3;Home Win
+Panathinaikos;Din. Minsk;4;0;Home Win
+SK Rapid;FC Copenhagen;3;0;Home Win
+TSC;Noah;4;3;Home Win
+Gent;TSC;3;0;Home Win
+Mlada Boleslav;Jagiellonia;1;0;Home Win
+Omonia;SK Rapid;3;1;Home Win
+Pafos;Celje;2;0;Home Win
+Shamrock Rovers;Borac Banja Luka;3;0;Home Win
+St. Gallen;Guimaraes;1;4;Away Win
+TNS;Panathinaikos;0;2;Away Win
+Basaksehir;Heidenheim;3;1;Home Win
+Din. Minsk;Larne;2;0;Home Win
+FC Copenhagen;Hearts;2;0;Home Win
+Fiorentina;LASK;7;0;Home Win
+HJK;Molde;2;2;Away Win
+Legia;Lugano;1;2;Away Win
+Noah;APOEL;1;3;Away Win
+O. Ljubljana;Cercle Brugge;1;4;Away Win
+Petrocub;Betis;0;1;Away Win
+FC Astana;Chelsea;1;3;Away Win
+Vikingur Reykjavik;Djurgarden;1;2;Away Win
+Fiorentina;Pafos;3;2;Home Win
+Lugano;Gent;2;0;Home Win
+Mlada Boleslav;Betis;2;1;Home Win
+O. Ljubljana;Larne;1;0;Home Win
+Omonia;Legia;0;3;Away Win
+SK Rapid;Shamrock Rovers;1;1;Away Win
+Borac Banja Luka;LASK;2;1;Home Win
+Celje;Jagiellonia;3;3;Away Win
+Cercle Brugge;Hearts;2;0;Home Win
+Din. Minsk;FC Copenhagen;1;2;Away Win
+Heidenheim;Chelsea;0;2;Away Win
+Molde;APOEL;0;1;Away Win
+Noah;Vikingur Reykjavik;0;0;Away Win
+Panathinaikos;HJK;1;0;Home Win
+St. Gallen;TSC;2;2;Away Win
+TNS;Djurgarden;0;1;Away Win
+FC Astana;Guimaraes;1;1;Away Win
+Basaksehir;Petrocub;1;1;Away Win
+APOEL;Fiorentina;2;1;Home Win
+Betis;Celje;2;1;Home Win
+Chelsea;Noah;8;0;Home Win
+Djurgarden;Panathinaikos;2;1;Home Win
+FC Copenhagen;Basaksehir;2;2;Away Win
+Guimaraes;Mlada Boleslav;2;1;Home Win
+Hearts;Heidenheim;0;2;Away Win
+Jagiellonia;Molde;3;0;Home Win
+Larne;St. Gallen;1;2;Away Win
+LASK;Cercle Brugge;0;0;Away Win
+Gent;Omonia;1;0;Home Win
+HJK;O. Ljubljana;0;2;Away Win
+Legia;Din. Minsk;4;0;Home Win
+Pafos;FC Astana;1;0;Home Win
+Petrocub;SK Rapid;0;3;Away Win
+Shamrock Rovers;TNS;2;1;Home Win
+TSC;Lugano;4;1;Home Win
+Vikingur Reykjavik;Borac Banja Luka;2;0;Home Win
+Betis;FC Copenhagen;1;1;Away Win
+HJK;Din. Minsk;1;0;Home Win
+Mlada Boleslav;Lugano;0;1;Away Win
+O. Ljubljana;LASK;2;0;Home Win
+Pafos;Heidenheim;0;1;Away Win
+TNS;FC Astana;2;0;Home Win
+TSC;Legia;0;3;Away Win
+APOEL;Borac Banja Luka;0;1;Away Win
+Celje;Basaksehir;5;1;Home Win
+Djurgarden;Guimaraes;1;2;Away Win
+Gent;Molde;2;1;Home Win
+Hearts;Omonia;2;0;Home Win
+Jagiellonia;Petrocub;2;0;Home Win
+Larne;Shamrock Rovers;1;4;Away Win
+Panathinaikos;Chelsea;1;4;Away Win
+SK Rapid;Noah;1;0;Home Win
+St. Gallen;Fiorentina;2;4;Away Win
+Vikingur Reykjavik;Cercle Brugge;3;1;Home Win
